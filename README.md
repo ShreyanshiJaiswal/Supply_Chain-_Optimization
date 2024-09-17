@@ -20,7 +20,7 @@ The data used in this project was sourced from **MySQL** and **Excel** and was a
 ### Excel Analysis
 - **Data Handling**: The dataset was pre-processed in Excel, where key metrics such as revenue generated, number of products sold, and manufacturing costs were organized.
 
-### Power BI(https://app.powerbi.com/groups/me/reports/b2b9d73d-3984-4a1b-8190-7f5cffc68421?ctid=75c6a54f-cdc9-4ed2-941c-7096cf7dbda0&pbi_source=linkShare&bookmarkGuid=a20e201e-0b20-4067-9b12-10f1f97c3020)
+### Power BI
 Power BI was used to create dashboards and visualizations, providing key insights into the supply chain.
 
 ## Key Performance Indicators (KPIs):
