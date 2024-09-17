@@ -29,8 +29,7 @@ The project utilized a dataset from Kaggle containing key supply chain metrics s
 
 ## Analysis Summary
 
-### Excel [Supply Chain Data (.xlsx)](https://github.com/username/repository/blob/main/filename.xlsx
-)
+### Excel [Supply Chain Data (.xlsx)](https://github.com/ShreyanshiJaiswal/Supply_Chain-_Optimization/blob/main/Analyzed%20supply_chain_data.xlsx)]
 - **Data Cleaning and Preparation**: Initial cleaning steps involved removing duplicates and filling missing entries.
 - **Feature Engineering**: Added new columns such as 'Stock Shortage Flag', 'Lead Time Variability Status', and 'Profit Margin'.
 - **Data Aggregation**: Employed pivot tables to summarize and analyze key supply chain metrics.
