@@ -42,8 +42,6 @@ The project utilized a dataset from Kaggle containing key supply chain metrics s
 - **Dashboard Development**: Created interactive and dynamic dashboards with slicers for product type, transportation mode, and more, enhancing user engagement.
 - **Insight Visualization**: Highlighted key areas like shipping costs and defect rates through visual analytics.
 
-![Dashboard Screenshot](./Supply_Chain_Optimization.png)
-
 ## Insights
 - **Revenue and Product Type Relationships**: Analysis showed that higher-priced products generate more revenue, but high sales volume in moderately priced products also contributes significantly to total revenue.
 - **Stock Management**: Identified product categories at risk of stock shortages, highlighting the need for improved inventory planning.
